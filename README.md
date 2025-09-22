@@ -1,11 +1,11 @@
 # SCT_ML_01
-# 💼 Salary Prediction using Linear Regression
+# 💼 House Price Prediction using Linear Regression
 
 This project was developed during my internship at **Skill Craft Technology**. It uses a basic Linear Regression model to predict salaries based on years of experience.
 
 ## 📂 Project Files
-- `Salary_Data.csv` – Dataset with experience and salary info  
-- `salary_prediction.py` – Python code for model training  
+- `Housing.csv` – Dataset with experience and salary info  
+- `Linear Regression.py` – Python code for model training  
 - `README.md` – This file
 
 ## 📊 Project Overview
